@@ -199,7 +199,6 @@ class App extends Component {
                     <small className="copyright">Designed with <i className="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
             </div>
         </footer>
-
       </div>
     );
   }
