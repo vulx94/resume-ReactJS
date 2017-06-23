@@ -15,9 +15,9 @@ class App extends Component {
         <div className="wrapper">
             <div className="sidebar-wrapper">
                 <div className="profile-container">
-                    <img className="profile" src="assets/images/2014-07-24 14.55.12.jpeg" alt="" />
+                    <img className="profile img-responsive" src="assets/images/2014-07-24 14.55.12.jpeg" alt="" />
                     <h1 className="name">{resume.name}</h1>
-                    <h3 className="tagline">Full Stack Developer</h3>
+                    <h3 className="tagline">Front-End Develoer</h3>
                 </div>
 
                 <div className="contact-container container-block">
@@ -49,9 +49,9 @@ class App extends Component {
                 <div className="interests-container container-block">
                     <h2 className="container-block-title">Interests</h2>
                     <ul className="list-unstyled interests-list">
-                        <li>Climbing</li>
-                        <li>Snowboarding</li>
-                        <li>Cooking</li>
+                        <li>Basketball</li>
+                        <li>Traveling</li>
+                        <li>Star Wars</li>
                     </ul>
                 </div>
 
