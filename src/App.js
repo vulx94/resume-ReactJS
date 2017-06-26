@@ -79,9 +79,11 @@ class App extends Component {
                   <h2 className="section-title"><i className="fa fa-file"></i>About Myself</h2>
                   <div className="summary">
                     <p>My passion for web development has grown for over a year and I have enroll many of online course on Udemy and
-            www.freecodecamp.com.  Via  Udemy  I  have  create  a  full  working  website  project  that  is  YelpCamp  which  is  using
-            Bootstrap for the front-end to make it responsive on any device and using NodeJS, ExpressJS and MongoDB for the
-            Database  to  serve  on  the  Back-end. With  those  hours  of  studies  and  experience  on  my  own, beside that I have study and research more and more about ReacjJS, a very powerful tools to create such a beautiful and functional Web App and also responsive on most of the mobile devices.      </p>
+                    www.freecodecamp.com.  Via  Udemy  I  have  create  a  full  working  website  project  that  is  YelpCamp  which  is  using
+                    Bootstrap for the front-end to make it responsive on any device and using NodeJS, ExpressJS and MongoDB for the
+                    Database  to  serve  on  the  Back-end. <br />
+                   With  those  hours  of  studies  and  experience  on  my  own, beside that I have study and research more and more about ReacjJS, a very powerful tools to create such a beautiful and functional Web App and also responsive on most of the mobile devices.
+                    </p>
                         </div>
                     </section>
 
