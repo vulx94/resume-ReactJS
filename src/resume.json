@@ -2,6 +2,8 @@
 	"name": "Le Dang Khoa",
 	"email": "le.khoa2209@gmail.com",
 	"phone": "+84 933-99-1839",
+	"address": "125/24 Tran Binh Trong Ward 2, District 5",
+	"addressURL" : "https://www.google.com/maps/place/125+Tr%E1%BA%A7n+B%C3%ACnh+Tr%E1%BB%8Dng,+ph%C6%B0%E1%BB%9Dng+2,+Qu%E1%BA%ADn+5,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7568803,106.6786415,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f0348418153:0x782b7426460a9ea3!8m2!3d10.7568803!4d106.6808302",
 	"image": "http://udemy-images.udemy.com/user/200_H/9489058_849d.jpg",
 	"gitHub": "KhoaLe",
 	"gitHubURL": "https://github.com/Zacele",
@@ -9,59 +11,37 @@
 	"facebookURL": "https://www.facebook.com/zacele",
 	"experiences" : [
 		{
-			"title" : "Lead Developer",
-			"period": "2015 - Present",
-			"company": "Startup Hubs, San Francisco",
-			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
-		},
-		{
-			"title" : "Senior Software Engineer",
-			"period": "2014 - 2015",
-			"company": "Google, London",
-			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"title" : "Freelance full-stack Developer",
+			"period": "Early 2017 - Present",
+			"details": "I'm current working on the Website about the Basketball's News for the group call 'NBA Vietnam Talk'."
 		}
 	],
 	"projects": [
 		{
-			"name":"Velocity",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"Hotela",
+			"detail": "A responsive website app that allow you to book and search Hotel online, this project it is build on ReactJS."
 		},
 		{
-			"name":"DevStudio",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Tempo",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Atom",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Delta",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"EasyABC game",
+			"detail": "A responsive game web app build on ReactJS which help kid from age 5-10."
 		}
 	],
 	"skills": [
 		{
 			"name": "Javascript & jQuery",
-			"percent": "80%"
+			"percent": "60%"
 		},
 		{
 			"name": "HTML5 & CSS",
-			"percent": "90%"
+			"percent": "75%"
 		},
 		{
 			"name": "Sketch & Photoshop",
 			"percent": "75%"
+		},
+		{
+			"name": "ReactJS",
+			"percent": "60%"
 		}
 	],
 	"education": [

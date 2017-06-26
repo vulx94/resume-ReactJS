@@ -30,3 +30,7 @@
 img.profile.img-responsive{
   border-radius: 30px;
 }
+
+body {
+  height: 100vh;
+}
