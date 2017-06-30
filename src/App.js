@@ -16,16 +16,16 @@ class App extends Component {
         <div className="wrapper">
             <div className="sidebar-wrapper">
                 <div className="profile-container">
-                    <img className="profile img-responsive" src="assets/images/2014-07-24 14.55.12.jpeg" alt="" />
+                    <img className="profile img-responsive" src="assets/images/18193412_692227404295741_7928961104724679772_o.jpg" alt="" />
                     <h1 className="name">{resume.name}</h1>
                     <h3 className="tagline">Fresher Front-End Developer</h3>
                 </div>
 
                 <div className="contact-container container-block">
                     <ul className="list-unstyled contact-list">
-                        <li className="email"><i className="fa fa-envelope"></i><a href="mailto: le.khoa2209@gmail.com">{resume.email}</a></li>
+                        <li className="email"><i className="fa fa-envelope"></i><a href="mailto: vulx94@gmail.com">{resume.email}</a></li>
                         <li className="phone"><i className="fa fa-home"></i><a href={resume.addressURL}>{resume.address}</a></li>
-                        <li className="phone"><i className="fa fa-phone"></i><a href="tel:+84 933991839">{resume.phone}</a></li>
+                        <li className="phone"><i className="fa fa-phone"></i><a href="tel:+84 1215877891">{resume.phone}</a></li>
                         <li className="github"><i className="fa fa-github"></i><a href={resume.gitHubURL} target="_blank">{resume.gitHub}</a></li>
                         <li className="twitter"><i className="fa fa-facebook"></i><a href={resume.facebookURL} target="_blank">{resume.facebook}</a></li>
                     </ul>
@@ -46,16 +46,15 @@ class App extends Component {
                     <ul className="list-unstyled interests-list">
                         <li>Vietnamese <span className="lang-desc">(Native)</span></li>
                         <li>English <span className="lang-desc">(Professional)</span></li>
-                        <li>French <span className="lang-desc">(Readable)</span></li>
-                    </ul>
+                        </ul>
                 </div>
 
                 <div className="interests-container container-block">
                     <h2 className="container-block-title">Interests</h2>
                     <ul className="list-unstyled interests-list">
-                        <li>Basketball</li>
-                        <li>Traveling</li>
-                        <li>Star Wars</li>
+                        <li>Movies</li>
+                        <li>Walking</li>
+                        <li>DComic</li>
                     </ul>
                 </div>
 
@@ -76,15 +75,13 @@ class App extends Component {
                 </section>
 
                 <section className="section summary-section">
-                  <h2 className="section-title"><i className="fa fa-file"></i>About Myself</h2>
+                  <h2 className="section-title"><i className="fa fa-file"></i>Science</h2>
                   <div className="summary">
-                    <p>My passion for web development has grown for over a year and I have enroll many of online course on Udemy and
-                    www.freecodecamp.com.  Via  Udemy  I  have  create  a  full  working  website  project  that  is  YelpCamp  which  is  using
-                    Bootstrap for the front-end to make it responsive on any device and using NodeJS, ExpressJS and MongoDB for the
-                    Database  to  serve  on  the  Back-end. <br />
-                   With  those  hours  of  studies  and  experience  on  my  own, beside that I have study and research more and more about ReacjJS, a very powerful tools to create such a beautiful and functional Web App and also responsive on most of the mobile devices.
-                    </p>
-                        </div>
+                       <ul>
+                        <li>I want to attend "Aglie Software Development with Scrum" course in Axon Active which last from 7 November to 8 December 2016</li>
+                        <li>I want to attend ReactJS course in codecampvn which last from  1 June  to 30 June 2017</li>
+                        </ul>
+                </div>
                     </section>
 
                 <section className="section experiences-section">

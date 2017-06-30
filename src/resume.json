@@ -1,59 +1,45 @@
 {
-	"name": "Le Dang Khoa",
-	"email": "le.khoa2209@gmail.com",
-	"phone": "+84 933-99-1839",
-	"address": "125/24 Tran Binh Trong Ward 2, District 5",
-	"addressURL" : "https://www.google.com/maps/place/125+Tr%E1%BA%A7n+B%C3%ACnh+Tr%E1%BB%8Dng,+ph%C6%B0%E1%BB%9Dng+2,+Qu%E1%BA%ADn+5,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.7568803,106.6786415,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f0348418153:0x782b7426460a9ea3!8m2!3d10.7568803!4d106.6808302",
-	"image": "http://udemy-images.udemy.com/user/200_H/9489058_849d.jpg",
-	"gitHub": "KhoaLe",
-	"gitHubURL": "https://github.com/Zacele",
-	"facebook": "Khoa Le",
-	"facebookURL": "https://www.facebook.com/zacele",
+	"name": "Le Xuan Vu",
+	"email": "vulx94@gmail.com",
+	"phone": "+84 1215877891",
+	"address": "652/55/16 Cong Hoa  Ward Tan Binh, District 5",
+	"addressURL" : "https://www.google.co.in/maps/place/91%2F14%2F7+H%E1%BA%BBm+C17,+ph%C6%B0%E1%BB%9Dng+13,+T%C3%A2n+B%C3%ACnh,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam/@10.8070193,106.6380788,19z/data=!3m1!4b1!4m5!3m4!1s0x3175295b0e35060f:0xb5cac37735826be3!8m2!3d10.807018!4d106.638626",
+	"gitHub": "vulx94",
+	"gitHubURL": "https://github.com/vulx94",
+	"facebook": "Vu Le Xuan",
+	"facebookURL": "https://www.facebook.com/vulx94",
 	"experiences" : [
 		{
 			"title" : "Freelance full-stack Developer",
-			"period": "Early 2017 - Present",
-			"details": "I'm current working on the Website about the Basketball's News for the group call 'NBA Vietnam Talk'."
-		}
+			"period": "Early 2017 - Present"
+			}
 	],
 	"projects": [
 		{
 			"name":"Hotela",
 			"detail": "A responsive website app that allow you to book and search Hotel online, this project it is build on ReactJS."
-		},
-		{
-			"name":"EasyABC game",
-			"detail": "A responsive game web app build on ReactJS which help kid from age 5-10."
 		}
 	],
 	"skills": [
 		{
 			"name": "Javascript & jQuery",
-			"percent": "60%"
+			"percent": "40%"
 		},
 		{
 			"name": "HTML5 & CSS",
-			"percent": "75%"
-		},
-		{
-			"name": "Sketch & Photoshop",
-			"percent": "75%"
+			"percent": "55%"
 		},
 		{
 			"name": "ReactJS",
-			"percent": "60%"
+			"percent": "50%"
 		}
 	],
 	"education": [
 		{
-			"degree": "Electrical Engineering",
-			"university": "University of Technology in Ho Chi Minh city",
-			"period": "2012 - Nov 2017(expected)"
-		},
-		{
-			"degree": "Software Engineering",
-			"university": "FPT University",
-			"period": "2011 - 2012"
+			"degree": "Information Techology",
+			"university": "Ton Duc Thang University",
+			"period": "2013 - Nov 2017(expected)"
 		}
+		
 	]
 }
